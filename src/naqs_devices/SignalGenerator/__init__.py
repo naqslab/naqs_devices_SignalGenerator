@@ -20,3 +20,5 @@ RS_SMHU = deprecated_import_alias("naqs_devices.SignalGenerator.Models.RS_SMHU")
 HP8643A = deprecated_import_alias("naqs_devices.SignalGenerator.Models.HP8643A")
 
 HP8642A = deprecated_import_alias("naqs_devices.SignalGenerator.Models.HP8642A")
+
+__version__ = '0.1.0'
