@@ -21,7 +21,7 @@ project = 'naqs_devices_SignalGenerator'
 copyright = '2025, naqslab'
 author = 'naqslab'
 
-version = importlib_metadata.version('SignalGenerator')
+version = importlib.metadata.version('naqs_devices_SignalGenerator')
 release = version
 
 # get version into rst files
